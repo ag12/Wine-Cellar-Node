@@ -1,0 +1,5 @@
+Node.js Wine Cellar REST Application
+
+$ npm start || $ node server.js
+
+Enjoy!
